@@ -13,7 +13,7 @@ The final report includes:
 - Top Spenders
 - Most Popular Items
 - Most Profitable Items
-- Observable Trends
+- Overall Analysis
 ***
 
 ### Player Count
