@@ -23,7 +23,7 @@ The final report includes:
 ![purch_total](Images/purch_total.png)
 ***
 ### Gender Demographics
-![gender_demo](Images/dender_demo.png)
+![gender_demo](Images/gender_demo.png)
 ***
 ### Purchasing Analysis (by gender)
 ![purch_gender](Images/purch_gender.png)
